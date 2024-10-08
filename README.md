@@ -3,6 +3,8 @@
 # 2023/2024 Chongqing university Sentry
 # 2023哨兵
 ![image](imges/2023哨兵定妆照.jpg)
+## 模型文件
+https://a360.co/3TWUdwV
 ## 简介
 2023哨兵底盘为麦轮结构，在2023对抗赛时期拥有了两个发射机构，一个上供弹，一个下供弹，配备一个nuc和激光雷达Mid360，，2023对抗赛时期拥有自瞄，但无法实现导航。
 ![image](imges/2023哨兵实物.jpg)
